@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>SR’s Soukyadha Foods – Full Catalogue</title>
+<meta name="description" content="SR’s Soukyadha Foods – Veg & Non‑Veg Pickles, Podis & Powders, Oils & Essentials. Order via WhatsApp 9392001206.">
+<style>
+body { font-family: Arial, sans-serif; margin:0; background:#fffaf5; color:#333; }
+header{ background:#800000; color:white; padding:30px; text-align:center; }
+section{ max-width:1200px; margin:auto; padding:20px; }
+h2 { color:#800000; border-bottom:2px solid #ddd; padding-bottom:5px; }
+.products{ display:grid; grid-template-columns:repeat(auto-fit,minmax(250px,1fr)); gap:15px; }
+.card{ background:white; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.1); padding:10px; text-align:center; }
+.card img{ width:100%; height:180px; object-fit:cover; border-radius:6px; }
+.price{ font-weight:bold; margin-top:6px; }
+.whatsapp{ position:fixed; bottom:20px; right:20px; background:#25D366; color:white; padding:15px 18px; border-radius:50px; font-size:18px; text-decoration:none; }
+footer{ text-align:center; padding:15px; background:#eee; margin-top:20px; }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>SR’s Soukyadha Foods</h1>
+  <p>Real Taste of Nature – Veg Pickles • Non‑Veg Pickles • Podis & Powders • Oils & Essentials</p>
+</header>
+
+<!-- VEG PICKLES -->
+<section>
+<h2>Veg Pickles</h2>
+<div class="products">
+
+<div class="card">
+  <img src="https://urthindia.com/collections/spices/products/tomato-pickle.jpg" alt="Tomato Pickle">
+  <h3>Tomato Pickle</h3>
+  <p class="price">1kg ₹450 | ½kg ₹225</p>
+</div>
+
+<div class="card">
+  <img src="https://urthindia.com/collections/spices/products/mango-pickle.jpg" alt="Maagaya Pachhadi">
+  <h3>Maagaya Pachhadi (Bellam)</h3>
+  <p class="price">1kg ₹550 | ½kg ₹275</p>
+</div>
+
+<div class="card">
+  <img src="https://urthindia.com/collections/spices/products/ginger-pickle.jpg" alt="Allam Pickle">
+  <h3>Allam (Ginger) Pickle</h3>
+  <p class="price">1kg ₹500 | ½kg ₹250</p>
+</div>
+
+<div class="card">
+  <img src="https://urthindia.com/collections/spices/products/gongura-pickle.jpg" alt="Gongura Pickle">
+  <h3>Gongura Pickle</h3>
+  <p class="price">1kg ₹500 | ½kg ₹250</p>
+</div>
+
+<div class="card">
+  <img src="https://urthindia.com/collections/spices/products/mango-ginger-pickle.jpg" alt="Mango Ginger Pickle">
+  <h3>Mango Ginger Pickle</h3>
+  <p class="price">1kg ₹500 | ½kg ₹250</p>
+</div>
+
+<div class="card">
+  <img src="https://urthindia.com/collections/spices/products/green-chilli-pickle.jpg" alt="Mulagakaya Pickle">
+  <h3>Mulagakaya Pickle</h3>
+  <p class="price">1kg ₹500 | ½kg ₹250</p>
+</div>
+
+<div class="card">
+  <img src="https://urthindia.com/collections/spices/products/mango-nibbles-pickle.jpg" alt="Mango Mukkala Pickle">
+  <h3>Mango Mukkala Pickle</h3>
+  <p class="price">1kg ₹500 | ½kg ₹250</p>
+</div>
+
+</div>
+</section>
+
+<!-- NON-VEG PICKLES -->
+<section>
+<h2>Non‑Veg Pickles</h2>
+<div class="products">
+
+<div class="card">
+  <img src="https://urthindia.com/collections/spices/products/chicken-pickle.jpg" alt="Chicken Pickle">
+  <h3>Chicken Pickle</h3>
+  <p class="price">1kg ₹1050 | ½kg ₹550</p>
+</div>
+
+<div class="card">
+  <img src="https://urthindia.com/collections/spices/products/chicken-boneless-pickle.jpg" alt="Chicken Boneless Pickle">
+  <h3>Chicken Boneless Pickle</h3>
+  <p class="price">1kg ₹1350 | ½kg ₹675</p>
+</div>
+
+<div class="card">
+  <img src="https://urthindia.com/collections/spices/products/mutton-pickle.jpg" alt="Mutton Pickle">
+  <h3>Mutton Pickle</h3>
+  <p class="price">1kg ₹1900 | ½kg ₹950</p>
+</div>
+
+<div class="card">
+  <img src="https://urthindia.com/collections/spices/products/mutton-boneless-pickle.jpg" alt="Mutton Boneless Pickle">
+  <h3>Mutton Boneless Pickle</h3>
+  <p class="price">1kg ₹2100 | ½kg ₹1050</p>
+</div>
+
+<div class="card">
+  <img src="https://urthindia.com/collections/spices/products/prawn-pickle.jpg" alt="Prawn Pickle">
+  <h3>Prawn Pickle</h3>
+  <p class="price">1kg ₹1800 | ½kg ₹900</p>
+</div>
+
+</div>
+</section>
+
+<!-- PODIS & POWDERS -->
+<section>
+<h2>Podis & Powders</h2>
+<div class="products">
+
+<div class="card">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Red_chilli_powder.jpg" alt="Red Chilli Powder">
+  <h3>Red Chilli Powder</h3>
+  <p class="price">1kg ₹500 | ½kg ₹260 | ¼kg ₹130</p>
+</div>
+
+<div class="card">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Turmeric_powder.jpg" alt="Pasupu (Turmeric)">
+  <h3>Pasupu (Turmeric)</h3>
+  <p class="price">1kg ₹450 | ½kg ₹225 | ¼kg ₹120</p>
+</div>
+
+<div class="card">
+  <img src="https://turn0image0" alt="Challa Mirapakalu">
+  <h3>Challa Mirapakalu</h3>
+  <p class="price">1kg ₹650 | ½kg ₹325 | ¼kg ₹170</p>
+</div>
+
+<div class="card">
+  <img src="https://turn0image8" alt="Pickle Red Chilli Podi">
+  <h3>Pickle Red Chilli / Munagaku Karam Podi</h3>
+  <p class="price">1kg ₹1000 | ½kg ₹500 | ¼kg ₹250</p>
+</div>
+
+<div class="card">
+  <img src="https://turn0image3" alt="Spice Jars">
+  <h3>Karivepaku Karam Podi</h3>
+  <p class="price">1kg ₹700 | ½kg ₹350 | ¼kg ₹180</p>
+</div>
+
+<div class="card">
+  <img src="https://turn0image1" alt="Generic Spice Powder">
+  <h3>Palli Podi / Nuvvula Podi / Mixed Karam Podi</h3>
+  <p class="price">1kg ₹700 | ½kg ₹350 | ¼kg ₹180</p>
+</div>
+
+<div class="card">
+  <img src="https://turn0image5" alt="Pickle Mirchi Powder">
+  <h3>Moringa / Raw Munagaku Podi</h3>
+  <p class="price">1kg ₹1000 | ½kg ₹520 | ¼kg ₹260</p>
+</div>
+
+</div>
+</section>
+
+<!-- OILS & ESSENTIALS -->
+<section>
+<h2>Oils & Essentials</h2>
+<div class="products">
+
+<div class="card">
+  <img src="https://turn0image6" alt="Coconut Oil">
+  <h3>Coconut Oil</h3>
+  <p class="price">1kg ₹600 | ½kg ₹300 | ¼kg ₹150</p>
+</div>
+
+<div class="card">
+  <img src="https://turn0image6" alt="Coconut Oil Heated">
+  <h3>Coconut Oil (Heated)</h3>
+  <p class="price">1kg ₹800 | ½kg ₹400 | ¼kg ₹200</p>
+</div>
+
+<div class="card">
+  <img src="https://turn0image1" alt="Honey">
+  <h3>Honey</h3>
+  <p class="price">1L ₹600 | ½kg ₹300 | ¼kg ₹160</p>
+</div>
+
+<div class="card">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Ghee.jpg" alt="Ghee (Neyyi)">
+  <h3>Ghee (Neyyi)</h3>
+  <p class="price">1kg ₹1100 | ½kg ₹550 | ¼kg ₹280</p>
+</div>
+
+<div class="card">
+  <img src="https://turn0image8" alt="Sambar / Rasam Powder">
+  <h3>Sambar & Rasam Powder (100gm each)</h3>
+  <p class="price">₹100 each</p>
+</div>
+
+</div>
+</section>
+
+<section>
+<h2>Contact & Orders</h2>
+<p><b>📞 WhatsApp:</b> 9392001206</p>
+<p><b>📧 Email:</b> srssoukyadhafoods@gmail.com</p>
+<p><b>📸 Instagram:</b> @soukyadha_foods</p>
+</section>
+
+<a class="whatsapp"
+ href="https://wa.me/9392001206?text=Hello%20I%20want%20to%20order%20from%20SR%E2%80%99s%20Soukyadha%20Foods"
+ target="_blank">💬 Order on WhatsApp</a>
+
+<footer>© 2026 SR’s Soukyadha Foods</footer>
+
+</body>
+</html>
